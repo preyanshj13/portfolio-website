@@ -1,0 +1,32 @@
+.contactForm{
+    width: 30%;
+    /* background-color: aliceblue; */
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 20px 20px;
+    border-radius: 10px;
+    font-family: monospace;
+    color: rgba(240, 248, 255, 0.6);
+}
+
+/* .contactForm input{
+    background-color: rgba(240, 248, 255, 0.451);
+} */
+
+.contactHead{
+    font-size: 3rem;
+    /* font-family: cursive; */
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    /* padding-left: 7% ;
+    padding-right:7% ;
+    padding-top: 2%;
+    padding-bottom: 2%; */
+    padding: 2% 10%;
+
+}

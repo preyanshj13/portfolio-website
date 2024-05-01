@@ -1,0 +1,48 @@
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    /* margin: 2% 5%; */
+}
+
+.card-text{
+    text-align: justify;
+    margin-bottom: 2%;
+}
+
+.card{
+    /* display: flex; */
+    background-color: rgba(15, 16, 17, 0.34);
+    width: 18rem;
+    margin: 4% 0;
+    color: aliceblue;
+}
+
+.card-title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.linkBtn{
+    align-self: baseline;
+    align-items: baseline;
+    align-content: baseline;
+    text-align: left;
+}
+
+@media screen and (max-width: 768px){
+    .card-container{
+        flex-direction: column;
+        /* justify-content: center; */
+        align-content: center;
+        margin: 2% auto;
+    }
+
+    .card{
+        align-self: center;
+        /* fill: aqua; */
+        /* background-color: aqua; */
+        /* margin: 4% 0; */
+        /* align-content: center; */
+    }
+}

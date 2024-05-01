@@ -1,0 +1,86 @@
+.containers {
+  display: flex;
+}
+
+.col1,
+.col2 {
+  width: 50%;
+  height: 50rem;
+}
+
+.myImage {
+  width: 60%;
+  opacity: 70%;
+  border-top: 1px solid black;
+  border-top-left-radius: 45%;
+  border-top-right-radius: 45%;
+}
+
+.col2 {
+  padding-left: 0%;
+  padding-top: 14%;
+}
+
+.hello,
+.name,
+.web {
+  color: aliceblue;
+  /* font-size: 2.5rem; */
+  line-height: 180%;
+  word-spacing: 0.2rem;
+  /* text-align: left; */
+  /* margin-left: 20%; */
+}
+
+.hello {
+  font-size: 3rem;
+  font-family: monospace;
+}
+
+.name {
+  font-size: 3.5rem;
+  font-weight: 600;
+  font-family: fantasy;
+}
+
+.web {
+  font-size: 2.5rem;
+  font-weight: 100;
+  font-family: monospace;
+  margin-bottom: 5%;
+}
+
+.linkedin,
+.github,
+.hackerrank {
+  margin-left: 5%;
+  cursor: pointer;
+}
+
+.mail {
+  cursor: pointer;
+}
+
+.text {
+  position: absolute;
+  top: 79%;
+  left: 50.5%;
+  /* transform: translateX(-50%); */
+  /* background-color: rgba(0, 0, 0, 0.5); */
+  color: white;
+  padding: 4px 8px;
+  border-radius: 5px;
+  /* white-space: nowrap; */
+  font-size: 11px;
+  visibility: visible;
+  /* transition: all 2s ease-in-out; */
+  /* opacity: 1; */
+  /* transition: opacity 10s; */
+  /* opacity: 1; */
+}
+
+/* .mailto:hover .text {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 10s;
+} */

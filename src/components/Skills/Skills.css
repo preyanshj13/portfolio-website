@@ -1,0 +1,13 @@
+.svgContainer{
+    display: flex;
+    justify-content: center;
+    padding: 0 0 10% ;
+    /* margin: 5% auto; */
+}
+/* .heading{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    font-family: monospace;
+    color: aliceblue;
+} */

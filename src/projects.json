@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Weather App",
+            "image":"https://store-images.s-microsoft.com/image/apps.60423.13664108468657913.8218191b-9e2a-49f4-8455-3c027b985a5d.30a38556-a2f8-4e20-835b-d8d914491b8b?h=464",
+            "url": "https://preyanshj13.github.io/weather",
+            "description": "This app helps to find weather of any place both by detecting the current location and by selecting a particular place from the dropdowns provided."
+        },
+        {
+            "id": 2,
+            "name": "Calculator",
+            "image":"https://www.shareicon.net/data/512x512/2015/08/12/84282_calculator_512x512.png",
+            "url": "https://preyanshj13.github.io/calculator",
+            "description": "It is a simple calculator app. It can be used to perform various mathematical calculations along with trigonometric operations as well."
+        },
+        {
+            "id": 3,
+            "name": "Employee Directory",
+            "image":"https://www.shareicon.net/data/256x256/2015/11/17/171978_directory_256x256.png",
+            "url": "https://preyanshj13.github.io/employee-directory",
+            "description": "It is a CRUD app in which records of employees can be maintained. We can add a new employee, remove and even update records of an existing employee."
+        },
+        {
+            "id": 4,
+            "name": "Bank Loan System",
+            "image":"https://www.shareicon.net/data/512x512/2017/02/09/878588_hand_512x512.png",
+            "url": "https://preyanshj13.github.io/bfs",
+            "description": "It is an app in which there are various applicants for loans and the operator can either accept or reject the application and the further course is thus decided"
+        }
+    ]
+}

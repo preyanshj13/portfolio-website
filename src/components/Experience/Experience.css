@@ -1,0 +1,92 @@
+.mainContainer{
+    margin: 5% 0;
+}
+
+.point{
+    /* align-self: center; */
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+    margin-top: 50px; /*Adjust as needed*/
+}
+
+.line {
+    position: absolute;
+    z-index: -1;
+    /* margin-left: 50%; */
+  }
+
+.texts {
+    color: black;
+    margin-right: 2%;
+}
+
+.paraL{
+    width: 30%;
+    color: white;
+    font-family: monospace;
+    /* margin-left: 14%; */
+    margin: 2% 0 2% 10%;
+}
+
+.paraR{
+    width: 30%;
+    color: white;
+    font-family: monospace;
+    margin-left: 65%;
+    margin: 2% 0 2% 59%;
+}
+
+.companyHead{
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.companyDate{
+    font-size: large;
+    font-weight: 400;
+}
+
+.flex{
+    display: flex;
+}
+
+.para{
+    text-align: justify;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin: 2% 0;
+}
+
+.role{
+
+    /* font-weight: 400; */
+    font-weight: bolder;
+    /* font-style: italic; */
+}
+
+.date{
+    font-size: medium;
+    /* vertical-align: middle; */
+    /* align-items: center; */
+    align-self: center;
+    /* align-content: center; */
+}
+
+/* .dateL{
+    text-align: left;
+    font-weight: 400;
+    font-weight: bolder;
+    font-style: italic;
+} */
+
+.svg{
+    /* float: right; */
+    color: red;
+    stroke: black;
+    
+}
